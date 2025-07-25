@@ -1,0 +1,7 @@
+modelo\Propietario.class
+vistas\FormPersona.class
+modelo\Persona.class
+modelo\Veterinario.class
+dao\PersonaDAO.class
+controlador\controladorPersona.class
+com\mycompany\clase_4\Clase_4.class
